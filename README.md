@@ -18,6 +18,11 @@ This is a list of open source projects I created, maintain or actively contribut
 
 - [ArcBruTile](https://github.com/arcbrutile/arcbrutile) (author) — visualizing various basemaps in ArcMap
 
+### Samples
+
+- [DynamicPDF](https://github.com/bertt/DynamicPDF) (author) - Create dynmaic PDF's on the server with ASP.NET
+
+- [MotionDetector](https://github.com/bertt/MotionDetector) (author) - Detects motion from a camera
 
 ### Weblog
 
