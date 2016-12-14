@@ -10,7 +10,7 @@ This is a list of open source projects I created, maintain or actively contribut
 ### IOT
 - [GOST](https://github.com/geodan/gost) (author) - Go implementation of OGC SensorThings API
 
-- [SensorThings CLI](https://github.com/geodan/sensorthings-cli) - CLI for performing SensorThings tasks
+- [SensorThings CLI](https://github.com/geodan/sensorthings-cli) (author) - CLI for performing SensorThings tasks
 
 ### Mapping
 
