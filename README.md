@@ -14,6 +14,8 @@ This is a list of open source projects I created, maintain or actively contribut
 
 ### Mapping
 
+- [Earthwatchers](https://github.com/Geodan/Earthwatchers) (author) - Crowd sourced satellite images analysing platform
+
 - [ArcBruTile](https://github.com/arcbrutile/arcbrutile) (author) — visualizing various basemaps in ArcMap
 
 
