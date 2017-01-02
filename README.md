@@ -7,6 +7,8 @@ This is a list of open source projects I created, maintain or actively contribut
 
 - [quantized-mesh-tile-cs](https://github.com/bertt/quantized-mesh-tile-cs) (author) - A .NET library for decoding a quantized mesh tile into vertices
 
+- [tilebelt-cs](https://github.com/bertt/tilebelt-cs) - A .NET library for working with the OpenStreetMap tiling scheme 
+
 ### IOT
 - [GOST](https://github.com/geodan/gost) (author) - Go implementation of OGC SensorThings API
 
