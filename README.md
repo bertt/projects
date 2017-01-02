@@ -22,7 +22,7 @@ This is a list of open source projects I created, maintain or actively contribut
 
 ### Samples
 
-- [DynamicPDF](https://github.com/bertt/DynamicPDF) (author) - Create dynmaic PDF's on the server with ASP.NET
+- [DynamicPDF](https://github.com/bertt/DynamicPDF) (author) - Create dynamic PDF's on the server with ASP.NET
 
 - [MotionDetector](https://github.com/bertt/MotionDetector) (author) - Detects motion from a camera
 
