@@ -14,6 +14,8 @@ This is a list of open source projects I created, maintain or actively contribut
 
 - [SensorThings CLI](https://github.com/geodan/sensorthings-cli) (author) - CLI for performing SensorThings tasks
 
+- [sensorthings-net-sdk](https://github.com/Geodan/sensorthings-net-sdk) (author) - .NET client SDK for SensorThings API 
+
 ### Mapping
 
 - [Earthwatchers](https://github.com/Geodan/Earthwatchers) (author) - Crowd sourced satellite images analysing platform
@@ -21,6 +23,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [ArcBruTile](https://github.com/arcbrutile/arcbrutile) (author) — visualizing various basemaps in ArcMap
 
 ### Samples
+- [CatBot](https://github.com/bertt/BotDemo) (author) - Create chat bot using Microsoft Bot framework and LUIS
 
 - [DynamicPDF](https://github.com/bertt/DynamicPDF) (author) - Create dynamic PDF's on the server with ASP.NET
 
