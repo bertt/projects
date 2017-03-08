@@ -23,7 +23,7 @@ This is a list of open source projects I created, maintain or actively contribut
 - [ArcBruTile](https://github.com/arcbrutile/arcbrutile) (author) — visualizing various basemaps in ArcMap
 
 ### Samples
-- [CatBot](https://github.com/bertt/BotDemo) (author) - Create chat bot using Microsoft Bot framework and LUIS
+- [ChatBot](https://github.com/bertt/BotDemo) (author) - Create chat bot using Microsoft Bot framework and LUIS
 
 - [DynamicPDF](https://github.com/bertt/DynamicPDF) (author) - Create dynamic PDF's on the server with ASP.NET
 
